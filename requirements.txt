@@ -1,0 +1,7 @@
+certifi==2019.3.9
+docutils==0.14
+jmespath==0.9.4
+python-dateutil==2.8.0
+six==1.12.0
+urllib3==1.24.3
+git+https://github.com/daletcoreil/metadataanalysis-client-python-sdk.git
